@@ -1,0 +1,27 @@
+{
+  "name": "xinshengdaxue.com",
+  "version": "1.0.0",
+  "description": "<http://xinshengdaxue.com>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tinfinite/xinshengdaxue.com.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tinfinite/xinshengdaxue.com/issues"
+  },
+  "homepage": "https://github.com/tinfinite/xinshengdaxue.com#readme",
+  "devDependencies": {
+    "cz-conventional-changelog": "^1.1.6"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
