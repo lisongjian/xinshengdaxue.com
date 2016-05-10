@@ -1,1 +1,1 @@
-# xinshengdaxue.com
+<http://xinshengdaxue.com>
