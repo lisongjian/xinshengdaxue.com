@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 
 .DS_Store
 
 node_modules/
 READMA.md
+=======
+.DS_Store
+node_modules/
+npm-debug.log
+>>>>>>> dac29685b8d398c411962e7c08366f6a311f9d69
