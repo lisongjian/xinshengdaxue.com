@@ -1,35 +1,21 @@
 {
   "name": "xinshengdaxue.com",
   "version": "1.0.0",
-<<<<<<< HEAD
-  "description": "",
-=======
   "description": "<http://xinshengdaxue.com>",
->>>>>>> dac29685b8d398c411962e7c08366f6a311f9d69
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-<<<<<<< HEAD
-    "url": "git+https://github.com/itshoushou666/xinshengdaxue.com.git"
-=======
     "url": "git+https://github.com/tinfinite/xinshengdaxue.com.git"
->>>>>>> dac29685b8d398c411962e7c08366f6a311f9d69
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-<<<<<<< HEAD
-    "url": "https://github.com/itshoushou666/xinshengdaxue.com/issues"
-  },
-  "homepage": "https://github.com/itshoushou666/xinshengdaxue.com#readme",
-=======
     "url": "https://github.com/tinfinite/xinshengdaxue.com/issues"
   },
   "homepage": "https://github.com/tinfinite/xinshengdaxue.com#readme",
->>>>>>> dac29685b8d398c411962e7c08366f6a311f9d69
   "devDependencies": {
     "cz-conventional-changelog": "^1.1.6"
   },
