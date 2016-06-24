@@ -51,7 +51,6 @@ body {
   font-weight: 400;
   line-height: 20px;
 }
-
 .light-version {
   color: #444;
 }
@@ -962,7 +961,12 @@ textarea.form-control {
   margin-bottom: 0;
   vertical-align: middle;
 }
-
+.block-line .text-left {
+  width: 70%;
+}
+.block-line .text-left p {
+  text-align: left;
+}
 .block-line .block:first-child {
   padding-left: 0;
 }
@@ -1023,9 +1027,9 @@ textarea.form-control {
 
 .navbar-brand span {
   display: block;
-  background-size: auto 28px;
+  background-size: auto 24px;
   height: 28px;
-  width: 82px;
+  width: 86px;
 }
 
 .navbar-nav > li > a {
