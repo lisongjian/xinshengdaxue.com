@@ -999,6 +999,9 @@ textarea.form-control {
   opacity: 0.9;
 }
 
+.text-light {
+  text-align: center;
+}
 /* _____________________________________
 
    09. Navigation Header
