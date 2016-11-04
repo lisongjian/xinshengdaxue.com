@@ -6,12 +6,14 @@ $(document).ready(function () {
 
      Mobile change link
      _____________________________________ */
-
-    if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+    if ((window.navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
       //移动端
       $('.android-load').attr('href', 'http://h5.xinshengdaxue.com/android_download.html')
     }
 
+    if ((/MicroMessenger/i).test(window.navigator.userAgent)) {
+      $('.ios-load').attr('href', 'http://a.app.qq.com/o/simple.jsp?pkgname=com.tinfinite.xinshengdaxue')
+    }
     /* _____________________________________
 
      Preloader
